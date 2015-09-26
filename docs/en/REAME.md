@@ -7,7 +7,7 @@ Contributing to Open Source does not require coding skills. There are several wa
 
 ## Answering
 
-As a user, you will have various skills and knowledge gained from using the tools provided by the project.  You can share that experience with people who are new to the project by anwwering questions on the mailing lists, forums, or IRC. By answering those beginner questions, you help newbies get started, which is an important step in any project.  Failure to get the sofware working is a major reason why people choose something else.
+As a user, you will have various skills and knowledge gained from using the tools provided by the project.  You can share that experience with people who are new to the project by answering questions on the mailing lists, forums, or IRC. By answering those beginner questions, you help newbies get started, which is an important step in any project. Failure to get the software working is a major reason why people choose something else.
 
 ## Documenting
 
