@@ -11,9 +11,9 @@ As a user, you will have various skills and knowledge gained from using the tool
 
 ## Documenting
 
-While you are answering those questions, you learn what parts of the documenation are incorrect or misleading.  From there, it is a fairly easy step to update the existing documents to help the newbies.  This will in turn reduce the number of questionws you have to answer.
+While you are answering those questions, you learn what parts of the documentation are incorrect or misleading.  From there, it is a fairly easy step to update the existing documents to help the newbies.  This will in turn reduce the number of questions you have to answer.
 
-If you are repeatedly answering the same question, you have found a place where the documenation can be improved.  Amending the documentation means you will answer that question less and have more time to do other things.
+If you are repeatedly answering the same question, you have found a place where the documentation can be improved.  Amending the documentation means you will answer that question less and have more time to do other things.
 
 ## Tickets
 
