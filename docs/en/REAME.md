@@ -23,4 +23,4 @@ You can write about what you are doing.  When you first install the software, wr
 
 ## Testing
 
-As a experienced user, you can run beta or pre-release version of the software before the next release comes out. If you find a bug, it can be fixed before the release.  Bugs fixed before the release reduces the number of support questions.
+As a experienced user, you can run beta or pre-release version of the software before the next release comes out. If you find a bug, it can be fixed before the release.  Bugs that are fixed before the release reduces the number of support questions.
