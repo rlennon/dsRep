@@ -2,7 +2,7 @@
 
 A test repo for learning
 
-Contributing to Open Source does not require coding skills.  There are several ways in which you can contribute without knowing how to program.
+Contributing to Open Source does not require coding skills. There are several ways in which you can contribute without knowing how to program.
 
 
 ## Answering
