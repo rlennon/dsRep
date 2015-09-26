@@ -20,6 +20,10 @@ Du kan följa nya biljetter och bekräfta buggar. Detta är ganska enkelt.
 
 Du kan skriva om vad du gör. När du först installerar programvaran, skriv ner allt du gör. Av särskilt intresse för andra är de problem som du stött på och hur du löste det. Skriv detta i ett blogginlägg och andra kommer att finna det användbart när de stöter på samma problem.
 
-## Provning
+## Testning
 
+<<<<<<< HEAD
 Som en erfaren användare kan du köra beta- eller förhandsversioner av programvaran innan nästa utgåva kommer ut. Om du hittar ett fel, kan det fastställas innan release. Buggar som fixas innan utgivningen minskar antalet supportfrågor.
+=======
+Som en erfaren användare kan du köra beta eller förhandsversion av programvaran innan nästa utgåva kommer ut. Om du hittar ett fel, kan det fixas innan release. Buggar som är fixade före release minskar antalet supportfrågor.
+>>>>>>> master
