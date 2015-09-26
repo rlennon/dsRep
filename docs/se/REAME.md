@@ -1,17 +1,17 @@
 # Bidra till öppen källkod
 
-En test repa för inlärning
+Ett test repo för inlärning.
 
-Att bidra till öppen källkod kräver inte kodning färdigheter. Det finns flera sätt som du kan bidra utan att veta hur man programmerar.
+Att bidra till öppen källkod kräver inte kodningsfärdigheter. Det finns flera sätt som du kan bidra på utan att veta hur man programmerar.
 
 
 ## Svara
 
-Som användare, kommer du att ha olika kompetens och kunskap från att använda de verktyg som tillhandahålls av projektet. Du kan dela den upplevelsen med personer som är nya i projektet genom anwwering frågor om e-postlistor, forum eller IRC. Genom att svara dessa nybörjarfrågor, hjälper dig newbies komma igång, vilket är ett viktigt steg i alla projekt. Underlåtenhet att få nedladdingar arbets är en viktig orsak till varför människor väljer något annat.
+Som användare, kommer du att ha olika kompetenser och kunskap från att använda de verktyg som tillhandahålls av projektet. Du kan dela den upplevelsen med personer som är nya i projektet genom att svar på frågor på e-postlistor, forum eller IRC. Genom att svara dessa nybörjarfrågor, hjälper du nybörjare att komma igång, vilket är ett viktigt steg i alla projekt. Underlåtenhet att få feedback på frågor är en viktig orsak till varför människor väljer något annat.
 
 ## Dokumentera
 
-Medan du svarar dessa frågor får du lära dig vilka delar av documenation är oriktiga eller vilseledande. Därifrån är det en ganska enkel steg för att uppdatera befintliga dokument för att hjälpa nybörjare. Detta kommer i sin tur att minska antalet questionws du måste svara.
+Medan du svarar dessa frågor får du lära dig vilka delar av dokumenationen är oriktiga eller vilseledande. Därifrån är det ett ganska enkelt steg till att uppdatera befintliga dokument för att hjälpa nybörjare. Detta kommer i sin tur att minska antalet frågor du måste besvara.
 
 Om du upprepade gånger att svara på samma fråga, har du hittat en plats där documenation kan förbättras. Ändring av dokumentationen innebär att du kommer att svara på den frågan mindre och få mer tid att göra andra saker.
 
