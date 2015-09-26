@@ -19,7 +19,7 @@ If you are repeatedly answering the same question, you have found a place where 
 
 You can monitor new tickets and confirm bugs.  This is pretty simple.
 
-You can write about what you are doing.  When you first install the software, write down everything you are doing. Of particular interest to others are the problems you encountered and how you solved this.  Put this into a blog post and other will find it useful when they encounter the same problem.
+You can write about what you are doing.  When you first install the software, write down everything you are doing. Of particular interest to others are the problems you encountered and how you solved them.  Put this into a blog post and other will find it useful when they encounter the same problem.
 
 ## Testing
 
